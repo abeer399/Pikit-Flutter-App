@@ -1,0 +1,87 @@
+{
+  "Lanuage-Select" : "اختار اللغة",
+  "Lanuage-Head" : "لا تقلق يمكنك تغييره في أي وقت",
+  "Button-One" : "English",
+  "Button-two" : "العربية",
+
+
+  "Login-Head" : "إلهام الطعام الخاص بك المقبل",
+  "Login-Head-Two" : "#Foodgasm",
+  "Login-Text" : "تسجيل الدخول",
+  "Login-Fb" : "Facebook",
+  "Login-Insta" : "Instagram",
+
+
+
+  "Home-SearchBox" : "عن ماذا تبحث؟",
+  "Home-Pic01": "المطاعم المفتوحة حديثًا",
+  "Home-Pic01-Text2" : "69 مكان",
+  "Home-Pic02":"طعام امريكي",
+  "Home-Pic02-Text2": "25 مكان",
+  "Home-Pic03" : "الغذاء البحر الأبيض المتوسط",
+  "Home-Pic03-Text3" : "20 مكان",
+  "Home-Pic04" :  "الحفاظ على الهدوء وتناول المأكولات البحرية",
+  "Home-Pic04-Text4" : "30 مكان",
+  "Home-Pic05" : "Vegans فقط",
+  "Home-Pic05-Text5" : "25 مكان",
+  "Home-Pic06" : "أكل السباحة وكرر",
+  "Home-Pic06-Text6" : "30 مكان",
+
+
+
+  "Searchbar-Head1" : "افضل مطاعم البحر المتوسط",
+  "Searchbar=Head2" : "دبي",
+  "Searchbar-Head3" : "11 مكان",
+  "Searchbar-SearchBox" :"البحث عن المطاعم",
+  "SearchBar-Res1":"یونانی بحیرہ روم / بزنس بے",
+  "SearchBar-Res2":"یونانی بحیرہ روم / تاج ہوٹل",
+  "SearchBar-Res3":"یونانی بحیرہ روم / فیئرمونٹ دی کھجور",
+  "SearchBar-Res4":"بحیرہ روم / بین البراعظمی دبئی",
+
+
+  "Fav-App-Head" : "مفضل",
+  "Fav-SearchBox" : "البحث عن المطاعم",
+  "Fav-Card01": "Ruya Dubai",
+  "Fav-Card02": "Madinat Jumeriah",
+  "Fav-Card03": "Ostro Restaurant",
+  "Fav-Sugges": "Suggested for you",
+  "Fav-Card04": "Qutoof Restaurant",
+  "Fav-Card05": "The Noodle House",
+  "Fav-Card06": "Feta Restaurant",
+  "Fav-Card07": "Qutoof Restaurant",
+  "Fav-Card08": "The Noodle House",
+  "Fav-Card09": "Feta Restaurant",
+
+
+  "Profile-App-Head": "عبير علي صديقي",
+  "Profile-Image-Text": "عبير علي",
+  "Profile-Side-Number": "856",
+  "Profile-Side-Text" : "مفضل",
+  "Profile-Side-Number2" : "562",
+  "Profile-Side-Text2" : "ميزة اليوم",
+  "Profile-Edit": "تعديل الملف الشخصي",
+  "Profile-Notification": "دفع الإخطار",
+  "Profile-Lanuage": "لغة",
+  "Profile-Lanuage1" : "ENG",
+  "Profile-Lanuage2" : "العربية",
+  "Profile-Contact" : "Facebook الاتصال عبر",
+  "Profile-Logout" : "تسجيل خروج",
+
+  "Gallery-Head": "سفن الكبد",
+  "Gallery-Tab-1":"وصف",
+  "Gallery-TabData-1":"الوصف \"،\" ستريم خولنا تايغر ضد راجشاهي رويالز مباشر. \"\n           \"شاهد من أي مكان عبر الإنترنت مجانًا. لا اشتراك أو\"\n           \"بطاقة الائتمان مطلوبة. نحن نقدم لك أفضل البث المباشر ل\"\n           \"شاهد الدوري الإنجليزي الممتاز في HD. استمتع بالمباراة بين\"\n           \"خولنا نمور وراجشاهي رويالز\"\n           \"تجري في بنغلاديش في 17 يناير 2020 ، الساعة 8:00 صباحًا.",
+  "Gallery-Tab-2":"السعر",
+
+  "Grid-Head-1": "Ruya Dubai",
+  "Grid-Head-2": "برنش - نباتي -A LA Carte - حلوى",
+  "Grid-Email": "البريد الإلكتروني",
+  "Grid-Address": "عنوان",
+  "Grid-Bar-1": "وجبة افطار",
+  "Grid-Bar-2": "غداء/ عشاء",
+  "Grid-Bar-3": "مشروبات",
+  "Grid-Bar-4": "بداية",
+  "Grid-Bar-5": "الطبق الرئيسي",
+  "Grid-Bar-6": "صحراء",
+  "Grid-Alert": "لدينا أطباق ذات العلامات التجارية.",
+  "Alert-Close": "قريب"
+}

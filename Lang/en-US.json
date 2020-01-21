@@ -1,0 +1,87 @@
+{
+  "Lanuage-Select" : "Select Lanuage",
+  "Lanuage-Head" : "Dont Worry You can Change it any time",
+  "Button-One" : "English",
+  "Button-two" : "العربية",
+
+
+  "Login-Head" : "Food Inspiration for your next",
+  "Login-Head-Two" : "#Foodgasm",
+  "Login-Text" : "Login",
+  "Login-Fb" : "Facebook",
+  "Login-Insta" : "Instagram",
+
+
+
+  "Home-SearchBox" : "What are you looking for?",
+  "Home-Pic01": "Newly Opened Restaurants",
+  "Home-Pic01-Text1" : "69 Places",
+  "Home-Pic02":"American Food",
+  "Home-Pic02-Text2": "25 Places",
+  "Home-Pic03" : "Mediterranean Food",
+  "Home-Pic03-Text3" : "20 Places",
+  "Home-Pic04" :  "Keep Clam & Eat Sea Food",
+  "Home-Pic04-Text4" : "30 Places",
+  "Home-Pic05" : "Vegans Only",
+  "Home-Pic05-Text5" : "25 Places",
+  "Home-Pic06" : "Eat Swim & Repeat",
+  "Home-Pic06-Text6" : "30 Places",
+
+
+
+  "Searchbar-Head1" : "Best Mediterranean Restaurants in",
+  "Searchbar=Head2" : "Dubai",
+  "Searchbar-Head3" : "11 Places",
+  "Searchbar-SearchBox" :"Search for Restaurants",
+  "SearchBar-Res1":"Greek Mediterranean/BusinessBay",
+  "SearchBar-Res2":"Greek Mediterranean/Taj Hotel",
+  "SearchBar-Res3":"Greek Mediterranean/Fairmant The Plam",
+  "SearchBar-Res4":"Mediterranean/Intercontinental Dubai",
+
+  "Fav-App-Head" : "Favourite",
+  "Fav-SearchBox" : "Search for Restaurants",
+  "Fav-Card01": "Ruya Dubai",
+  "Fav-Card02": "Madinat Jumeriah",
+  "Fav-Card03": "Ostro Restaurant",
+  "Fav-Sugges": "Suggested for you",
+  "Fav-Card04": "Qutoof Restaurant",
+  "Fav-Card05": "The Noodle House",
+  "Fav-Card06": "Feta Restaurant",
+  "Fav-Card07": "Qutoof Restaurant",
+  "Fav-Card08": "The Noodle House",
+  "Fav-Card09": "Feta Restaurant",
+
+
+  "Profile-App-Head": "Abeer Ali Siddiqui",
+  "Profile-Image-Text": "Abeer Ali",
+  "Profile-Side-Number": "856",
+  "Profile-Side-Text" : "Favourite",
+  "Profile-Side-Number2" : "562",
+  "Profile-Side-Text2" : "Today's Feature",
+  "Profile-Edit": "Edit Profile",
+  "Profile-Notification": "Push Notification",
+  "Profile-Lanuage": "Lanuage",
+  "Profile-Lanuage1" : "ENG",
+  "Profile-Lanuage2" : "العربية",
+  "Profile-Contact" : "Contact via Facebook",
+  "Profile-Logout" : "Logout",
+
+  "Gallery-Head": "Leverk",
+  "Gallery-Tab-1":"Description",
+  "Gallery-TabData-1": "Description\",\"Stream Khulna Tigers vs Rajshahi Royals live. \"\n \"Watch from anywhere online and free. No sign-up or \"\n \"credit card required. We offer you the best live streams to \"\n          \"watch Bangladesh Premier League in HD. Enjoy the match between \"\n          \"Khulna Tigers and Rajshahi Royals,taking place at Bangladesh on January 17th, 2020, 8:00 am.",
+  "Gallery-Tab-2":"Price",
+  "Gallery-TabData-2":"درهم إماراتي:2000",
+
+  "Grid-Head-1": "Ruya Dubai",
+  "Grid-Head-2": "Brunch - Vgearian -A LA Carte - Desert",
+  "Grid-Email": "Email",
+  "Grid-Address": "Address",
+  "Grid-Bar-1": "Breakfast",
+  "Grid-Bar-2": "Lunch/Dinner",
+  "Grid-Bar-3": "Beverages",
+  "Grid-Bar-4": "Starter",
+  "Grid-Bar-5": "Main Course",
+  "Grid-Bar-6": "Desert",
+  "Grid-Alert": "Our Branded Dishes.",
+  "Alert-Close": "Close"
+}
